@@ -1,0 +1,25 @@
+.head1{
+    background-color: #d9d9d9;
+    height: 90px;
+}
+.buttons1{
+    padding-left: 1000px;
+    padding-top: 20px;
+    display: flex;
+    gap: 10px;
+    text-align: center;
+}
+
+.a2{
+    color: #2d6898;
+    cursor: pointer;
+    background-color: inherit;
+    padding: 10px 20px;
+    display: inline-block; 
+    text-align: center;
+}
+
+a:hover,a:active{
+    background-color: black;
+    color: white;
+}
